@@ -3,7 +3,7 @@
 # @Fecha 26/2023
 # @Descripcion Ejercicio práctico 02 - tema 01
 
-achivoImagenes="${1}"
+archivoImagenes="${1}"
 numImagenes="${2}"
 archivoZip="${3}"
 
